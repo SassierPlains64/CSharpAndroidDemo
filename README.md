@@ -5,7 +5,7 @@ This demo contains 2 projects:
 
 Phoneword:
 Sample application as described in the "Hello, Android!" tutorial on the XAMARIN developers
-website (http://http://developer.xamarin.com/guides/android/getting_started/hello,android/hello,android_quickstart/).
+website (http://developer.xamarin.com/guides/android/getting_started/hello,android/hello,android_quickstart/).
 
 WeatherApp:
 Sample application as described in the "Build cross-platform apps with Xamarin in Visual Studio"
