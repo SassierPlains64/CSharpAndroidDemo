@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeatherApp(Android)", "WeatherApp\WeatherApp(Android).csproj", "{95AC37BA-34D5-440E-B635-101443213E8C}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "Shared", "Shared\Shared.shproj", "{7161F843-8F09-4F82-B6E8-EC2643AAB7E3}"
+EndProject
+Global
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		Shared\Shared.projitems*{95ac37ba-34d5-440e-b635-101443213e8c}*SharedItemsImports = 4
+		Shared\Shared.projitems*{7161f843-8f09-4f82-b6e8-ec2643aab7e3}*SharedItemsImports = 13
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95AC37BA-34D5-440E-B635-101443213E8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95AC37BA-34D5-440E-B635-101443213E8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95AC37BA-34D5-440E-B635-101443213E8C}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{95AC37BA-34D5-440E-B635-101443213E8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95AC37BA-34D5-440E-B635-101443213E8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95AC37BA-34D5-440E-B635-101443213E8C}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
